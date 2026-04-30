@@ -36,4 +36,4 @@ To become a DevOps Engineer with strong Linux and automation skills.
 ---
 
 ## 🤝 Connect with Me
-(You can add your LinkedIn link here later)
+(https://www.linkedin.com/in/jennifer-s-050257194/)
